@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App font-josefin">
       <header className="bg-headerBg flex px-9 py-2 sticky top-0 left-0 w-full items-center">
-        <div className="logo">
+        <div className="logo">  
           <img
             className="w-48 ml-6"
             src="https://www.algorismic.uz/images/algorismic-02.svg"
